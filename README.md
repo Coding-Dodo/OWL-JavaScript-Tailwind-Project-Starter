@@ -4,7 +4,7 @@ This repo is an example on how to start a real project with the Odoo OWL framewo
 
 Thanks to @SimonGenin for it's [original Starter Project for OWL](https://github.com/SimonGenin/OWL-JavaScript-Project-Starter)
 
-[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Coding-Dodo/OWL-JavaScript-Project-Starter)
+[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Coding-Dodo/OWL-JavaScript-Tailwind-Project-Starter)
 
 ## Features
 
@@ -12,6 +12,7 @@ Thanks to @SimonGenin for it's [original Starter Project for OWL](https://github
 - Javascript
 - Livereload
 - Rollup.js
+- Tailwind and PostCSS
 - Tests with Jest
 
 ## Installation
@@ -21,7 +22,7 @@ Thanks to @SimonGenin for it's [original Starter Project for OWL](https://github
 Otherwise, you may clone it:
 
 ```bash
-git clone https://github.com/Coding-Dodo/OWL-JavaScript-Project-Starter.git
+git clone https://github.com/Coding-Dodo/OWL-JavaScript-Tailwind-Project-Starter.git
 ```
 
 Install dependencies:
@@ -69,3 +70,9 @@ export class App extends Component {
   }
 }
 ```
+
+## See also
+
+If your are searching for the a project starter without Tailwind:
+
+[https://github.com/Coding-Dodo/OWL-JavaScript-Tailwind-Project-Starter](https://github.com/Coding-Dodo/OWL-JavaScript-Tailwind-Project-Starter)
