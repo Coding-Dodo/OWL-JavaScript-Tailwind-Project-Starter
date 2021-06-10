@@ -75,4 +75,4 @@ export class App extends Component {
 
 If your are searching for the a project starter without Tailwind:
 
-[https://github.com/Coding-Dodo/OWL-JavaScript-Tailwind-Project-Starter](https://github.com/Coding-Dodo/OWL-JavaScript-Tailwind-Project-Starter)
+[https://github.com/Coding-Dodo/OWL-JavaScript-Project-Starter](https://github.com/Coding-Dodo/OWL-JavaScript-Project-Starter)
