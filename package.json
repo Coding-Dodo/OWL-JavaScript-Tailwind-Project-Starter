@@ -1,7 +1,7 @@
 {
-  "name": "owl_typescript_sandbox",
+  "name": "OWL-Javascript-Tailwind-Project-Starter",
   "version": "0.0.1",
-  "description": "OWL Typescript Sandbox",
+  "description": "OWL Javascript Tailwind Project Starter",
   "scripts": {
     "test": "jest",
     "build": "NODE_ENV=production rollup -c",

@@ -1,63 +1,3 @@
-# OWL Javascript Project Starter
-
-This repo is an example on how to start a JavaScript project with the Odoo OWL framework.
-
-Thanks to @SimonGenin for it's [original Starter Project for OWL](https://github.com/SimonGenin/OWL-JavaScript-Project-Starter)
-
-[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Coding-Dodo/OWL-JavaScript-Tailwind-Project-Starter)
-
-## Features
-
-- [OWL](https://github.com/odoo/owl)
-- Javascript
-- Livereload
-- Rollup.js
-- Tailwind and PostCSS
-- Tests with Jest
-
-## Demo
-
-[owl-tailwind-starter.netlify.app](https://owl-tailwind-starter.netlify.app)
-
-## Installation
-
-[This repo is a "template repository". It means you can quickly create repositories based on this one, without it being a fork.](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template#about-repository-templates)
-
-Otherwise, you may clone it:
-
-```bash
-git clone https://github.com/Coding-Dodo/OWL-JavaScript-Tailwind-Project-Starter.git
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Dev with livereload:
-
-```bash
-npm run dev
-```
-
-Production build
-
-```bash
-npm run build
-```
-
-Run tests
-
-```bash
-npm run test
-```
-
-## Components
-
-It is expected to create components in one file, this is an example DropDown Component present in this repository:
-
-```js
 import { Component, useState, tags, hooks } from "@odoo/owl";
 const { useExternalListener } = hooks;
 
@@ -131,10 +71,3 @@ export class DropDown extends Component {
     Object.assign(this.state, { open: !this.state.open });
   }
 }
-```
-
-## See also
-
-If your are searching for the a project starter without Tailwind:
-
-[https://github.com/Coding-Dodo/OWL-JavaScript-Project-Starter](https://github.com/Coding-Dodo/OWL-JavaScript-Project-Starter)
