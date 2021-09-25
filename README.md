@@ -8,12 +8,12 @@ Thanks to @SimonGenin for it's [original Starter Project for OWL](https://github
 
 ## Features
 
-- [OWL](https://github.com/odoo/owl)
+- [OWL](https://github.com/odoo/owl) v1.4.5
 - Javascript
 - Livereload
-- Rollup.js
-- Tailwind and PostCSS
-- Tests with Jest
+- Rollup.js v2.57.0
+- Tailwind v2.2.15 and PostCSS
+- Tests with Jest v27.2.1
 
 ## Demo
 
